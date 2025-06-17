@@ -14,9 +14,7 @@
 - 🌱 Learning: **Deep Learning, CNNs, FastAPI, XAI, MongoDB**
 - 👯 Open to collaborate on: **AI/ML Projects and Hackathons**
 - 💬 Ask me about: **Python, DSA, Pygame Projects, and React**
-- 📫 Reach me: **kumraharyiank@gmail.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I’m building my own version of JARVIS 🤖
+- 📫 Reach me: **haryiank@gmail.com**
 
 ---
 
@@ -40,7 +38,6 @@
   <img src="https://leetcard.jacoblin.cool/haryiank?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
----
 
 ---
 
@@ -72,18 +69,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=haryiank&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haryiank&layout=compact&theme=tokyonight&hide_border=false"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HaryiankKumra&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true&hide_border=false" alt="GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaryiankKumra&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages"/>
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=haryiank&theme=tokyonight&no-bg=true&no-frame=true&column=6" />
-</p>
---
 
 ## 🧩 Random Dev Quote
 
