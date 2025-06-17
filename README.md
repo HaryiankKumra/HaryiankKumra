@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Haryiank Kumra
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=2000&color=F797FF&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub!;AI+Enthusiast+%7C+Problem+Solver;2nd+Year+CS+Undergrad+%7C+Thapar+University;Working+on+Stress+Detection+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=2000&color=F797FF&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub!;AI+Enthusiast+%7C+Problem+Solver;3rd+Year+CS+Undergrad+%7C+Thapar+University;Working+on+Stress+Detection+AI" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -18,17 +18,15 @@
 
 ---
 
-## 📌 Featured Project: SafeSpace 🧠✨
+## 📌 Featured Project: Traffic Management ✨
 
 <div align="center">
-  <img src="https://github.com/haryiank/safespace/assets/yourimageid1.gif" width="700" alt="SafeSpace Preview"/>
+  <img src="https://github.com/HaryiankKumra/Traffic-Management/blob/main/video%20realtime%20detection/Screenshot%202025-06-18%20021422.png?raw=true" width="700" alt="Traffic Management Preview"/>
   <br/><br/>
-  <a href="https://github.com/haryiank/safespace">
+  <a href="https://github.com/HaryiankKumra/Traffic-Management">
     <img src="https://img.shields.io/badge/View_Project_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
-
-> 💡 *Detects stress via facial emotion recognition + suggests calming solutions with explainable AI insights*
 
 ---
 
