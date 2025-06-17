@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haryiank Kumra</h1>
-<h3 align="center">🚀 B.Tech CSE @ Thapar | Aspiring AI Engineer | Building JARVIS 💡</h3>
+<h3 align="center">🚀 B.Tech CSE @ Thapar | Aspiring AI Engineer💡</h3>
 
 ---
 
@@ -13,75 +13,54 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,mongodb,react,nodejs,express,git,linux,vscode,figma,postgres,sqlite" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,mongodb,react,nodejs,express,git,linux,vscode" />
 </p>
 
 ---
 
 ### 🔥 LeetCode Stats
-
 [![LeetCode Stats](https://leetcard.jacoblin.cool/haryiank?ext=heatmap&theme=unicorn)](https://leetcode.com/Haryiank/)
-
 
 ---
 
-### 💼 Latest Project: SafeSpace 🧠
+### 💼 Latest Project: SafeSpace 🧠  
+> **SafeSpace: Intelligent Stress Detection and Relief for Professionals using Explainable AI**  
+> Detects stress from facial data and suggests personalised calming routines  
+> Uses: **CNNs**, **OpenCV**, **XAI**, **Flask**, **MongoDB**  
 
-> **SafeSpace: Intelligent Stress Detection and Relief for Professionals using Explainable AI**
-
-- 🎯 Detects stress from facial data and suggests personalized calming routines
-- 🧠 Uses: **CNNs**, **OpenCV**, **XAI**, **Flask**, **MongoDB**
+[![Latest Project](https://github-readme-stats.vercel.app/api/pin/?username=HaryiankKumra&repo=SAFE_Project&theme=tokyonight)](https://github.com/HaryiankKumra/Haryiank)
 
 ---
 
 ### 🏆 Achievements
-
-- 🥇 Winner, ACM Hackathon 
-- 🗣️ Organizer @ **Colloquium, Thapar**
-- 🚀 Conducted C++ OOP DSA WEB DEV Workshop for 1st-Year Students
-- ✨ Started `SafeSpace` AI Project from Scratch
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haryiankumra&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haryiankumra&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haryiankumra&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+- 🥇 Winner, ACM Hackathon  
+- 🗣️ Organizer @ **Colloquium, Thapar**  
+- 🚀 Conducted **C++ OOP & DSA Workshop** for 1st-Year Students  
+- ✨ Started `SafeSpace` AI Project from Scratch  
 
 ---
 
 ### ✨ Fun Facts
-
-- 🎮 Gaming calms me after long code sessions
-- 🧘‍♂️ Learning to live stress-free and confidently
-- ☕ I run on code and cold coffee
+- 🎮 Gaming calms me after long code sessions  
+- 🧘‍♂️ Practicing mindfulness & confidence  
+- ☕ I run on code and cold coffee  
 
 ---
 
 ### 🤝 Connect with Me
-
 <p align="left">
-  <a href="https://linkedin.com/in/haryiank-kumra" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-  <a href="mailto:haryiank@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
-  <a href="https://leetcode.com/haryiank/"><img align="center" src="https://skillicons.dev/icons?i=leetcode" height="30" /></a>
+  <a href="https://linkedin.com/in/haryiank-kumra" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+  <a href="mailto:haryiank@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
+  <a href="https://leetcode.com/haryiank/"><img src="https://skillicons.dev/icons?i=leetcode" height="30" /></a>
 </p>
 
 ---
 
 ### 🕓 Current Status
-
 ```yaml
 learning: "Explainable AI, CNNs, and System Design"
 projects: ["SafeSpace", "TrafficAI"]
 goals:
-  - Build a personal AI Assistant (JARVIS)
   - Publish Research Paper in AI/ML
-  - Migrate Abroad & Bring Parents Along
   - Win Hackathons 🚀
