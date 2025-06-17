@@ -85,9 +85,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/haryiank)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/haryiank-kumra/)
 [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumraharyiank@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github)](https://github.com/haryiank)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github)](https://github.com/haryiankkumra)
 
 </div>
 
