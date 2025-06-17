@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haryiank Kumra</h1>
 <h3 align="center">🚀 B.Tech CSE @ Thapar | Aspiring AI Engineer | Building JARVIS 💡</h3>
 
-<p align="center">
-  <img src="https://haryiank.me/Haryiank/assets/images/IMG_1760.jpg" alt="haryiankumra" />
-</p>
-
 ---
 
 ### 🧠 About Me
