@@ -22,7 +22,7 @@
 
 ### 🔥 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/haryiankumra?ext=heatmap&theme=unicorn)](https://leetcode.com/haryiankumra/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/haryiank?ext=heatmap&theme=unicorn)](https://leetcode.com/Haryiank/)
 
 
 ---
