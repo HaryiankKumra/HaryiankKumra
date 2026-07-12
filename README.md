@@ -18,17 +18,6 @@
 
 ---
 
-## 📌 Featured Project: Traffic Management ✨
-
-<div align="center">
-  <img src="https://github.com/HaryiankKumra/Traffic-Management/blob/main/video%20realtime%20detection/Screenshot%202025-06-18%20021422.png?raw=true" width="700" alt="Traffic Management Preview"/>
-  <br/><br/>
-  <a href="https://github.com/HaryiankKumra/Traffic-Management">
-    <img src="https://img.shields.io/badge/View_Project_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
----
 
 ## 🧠 LeetCode Stats
 
