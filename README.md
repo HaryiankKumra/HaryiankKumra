@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Haryiank Kumra
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=2000&color=F797FF&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub!;AI+Enthusiast+%7C+Problem+Solver;3rd+Year+CS+Undergrad+%7C+Thapar+University;Working+on+Stress+Detection+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=2000&color=F797FF&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub!;AI+Enthusiast+%7C+Problem+Solver;4th+Year+CS+Undergrad+%7C+Thapar+University;Working+on+Stress+Detection+AI" alt="Typing SVG" />
 </div>
 
 <div align="center">
